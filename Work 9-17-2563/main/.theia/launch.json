@@ -1,0 +1,97 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  "version": "0.2.0",
+  "configurations": [
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - App11",
+        "request": "launch",
+        "mainClass": "app.App11",
+        "projectName": "main"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - App10",
+        "request": "launch",
+        "mainClass": "app.App10",
+        "projectName": "main"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - OtherClass",
+        "request": "launch",
+        "mainClass": "app.OtherClass",
+        "projectName": "main"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - App8",
+        "request": "launch",
+        "mainClass": "app.App8",
+        "projectName": "main"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - App7",
+        "request": "launch",
+        "mainClass": "app.App7",
+        "projectName": "main"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - App6",
+        "request": "launch",
+        "mainClass": "app.App6",
+        "projectName": "main"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - App3",
+        "request": "launch",
+        "mainClass": "app.App3",
+        "projectName": "main"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - App9",
+        "request": "launch",
+        "mainClass": "app.App9",
+        "projectName": "main"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - App5",
+        "request": "launch",
+        "mainClass": "app.App5",
+        "projectName": "main"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - App4",
+        "request": "launch",
+        "mainClass": "app.App4",
+        "projectName": "main"
+    },
+    {
+        "type": "java",
+        "name": "Debug (Launch) - Current File",
+        "request": "launch",
+        "mainClass": "${file}"
+    },
+    {
+        "type": "java",
+        "name": "Debug (Launch)-App<main>",
+        "request": "launch",
+        "mainClass": "app.App",
+        "projectName": "main"
+    },
+    {
+        "type": "java",
+        "name": "Debug (Launch)-App2<main>",
+        "request": "launch",
+        "mainClass": "app.App2",
+        "projectName": "main"
+    }
+]
+}
