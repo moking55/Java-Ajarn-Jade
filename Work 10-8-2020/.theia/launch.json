@@ -1,0 +1,76 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug (Launch) - Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App<Work 10-8-2020>",
+      "request": "launch",
+      "mainClass": "app.App",
+      "projectName": "Work 10-8-2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App2<Work 10-8-2020>",
+      "request": "launch",
+      "mainClass": "app.App2",
+      "projectName": "Work 10-8-2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App3<Work 10-8-2020>",
+      "request": "launch",
+      "mainClass": "app.App3",
+      "projectName": "Work 10-8-2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App4<Work 10-8-2020>",
+      "request": "launch",
+      "mainClass": "app.App4",
+      "projectName": "Work 10-8-2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App5<Work 10-8-2020>",
+      "request": "launch",
+      "mainClass": "app.App5",
+      "projectName": "Work 10-8-2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App6<Work 10-8-2020>",
+      "request": "launch",
+      "mainClass": "app.App6",
+      "projectName": "Work 10-8-2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App7<Work 10-8-2020>",
+      "request": "launch",
+      "mainClass": "app.App7",
+      "projectName": "Work 10-8-2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App8<Work 10-8-2020>",
+      "request": "launch",
+      "mainClass": "app.App8",
+      "projectName": "Work 10-8-2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App9<Work 10-8-2020>",
+      "request": "launch",
+      "mainClass": "app.App9",
+      "projectName": "Work 10-8-2020"
+    }
+  ]
+}
